@@ -1,50 +1,38 @@
 [
-    {
-      "id": "1",
-      "name": "Louisa Gordon",
-      "img": "http://placehold.it/32x32",
-      "thumbnail_img": "http://placehold.it/32x32",
-      "title": "Sit eiusmod mollit occaecat ",
-      "about": "Occaecat adipisicing do fugiat ad nisi ad ipsum sunt qui anim ipsum. Laboris eiusmod dolore ea tempor fugiat amet commodo labore ullamco. Amet id sit non cupidatat aliquip occaecat laborum amet nostrud. Anim minim laborum non non. Sit ut nulla aliqua cupidatat deserunt ullamco nulla nostrud.\r\n"
-    },
-    {
-      "id": "2",
-      "name": "Berry Browning",
-      "img": "http://placehold.it/32x32",
-      "thumbnail_img": "http://placehold.it/32x32",
-      "title": "Sit eiusmod mollit occaecat ",
-      "about": "Magna labore dolor aliqua velit ea. Eiusmod irure consequat eu aliquip ea fugiat sit mollit nisi commodo. Voluptate consequat id consectetur quis irure laboris aliqua nulla magna proident duis Lorem sint. Commodo magna sunt duis sint tempor exercitation est occaecat duis laboris reprehenderit.\r\n"
-    },
-    {
-      "id": "3",
-      "name": "Hudson Harrington",
-      "img": "http://placehold.it/32x32",
-      "thumbnail_img": "http://placehold.it/32x32",
-      "title": "Sit eiusmod mollit occaecat ",
-      "about": "Labore non eu tempor Lorem non dolor aliquip tempor. Ea labore ipsum commodo aliqua anim veniam amet eu eu anim. Sit sunt ut amet proident. Culpa deserunt veniam deserunt sunt aute. Quis quis esse duis ex in et reprehenderit sit do tempor mollit duis aliqua.\r\n"
-    },
-    {
-      "id": "4",
-      "name": "Gonzales Shaw",
-      "img": "http://placehold.it/32x32",
-      "thumbnail_img": "http://placehold.it/32x32",
-      "title": "Sit eiusmod mollit occaecat ",
-      "about": "Deserunt duis elit ut exercitation commodo nisi. Minim eiusmod cillum voluptate do est adipisicing fugiat dolor aliqua adipisicing qui. Culpa amet ex dolore adipisicing tempor veniam exercitation magna laboris.\r\n"
-    },
-    {
-      "id": "5",
-      "name": "Angel Sanford",
-      "img": "http://placehold.it/32x32",
-      "thumbnail_img": "http://placehold.it/32x32",
-      "title": "Sit eiusmod mollit occaecat ",
-      "about": "Aute anim laborum velit culpa Lorem tempor nisi minim Lorem. Eu Lorem exercitation magna fugiat nostrud cupidatat eu fugiat proident dolore magna nisi elit proident. Sit sunt dolore ut eu quis esse esse incididunt fugiat incididunt. Do sit deserunt officia magna excepteur reprehenderit in velit proident magna aliquip quis sit. Fugiat minim quis esse mollit consequat cupidatat adipisicing elit.\r\n"
-    },
-    {
-      "id": "6",
-      "name": "Noreen Lancaster",
-      "img": "http://placehold.it/32x32",
-      "thumbnail_img": "http://placehold.it/32x32",
-      "title": "Sit eiusmod mollit occaecat ",
-      "about": "Sint officia fugiat minim occaecat incididunt non veniam occaecat culpa eiusmod amet. Cillum enim aute aliquip proident amet deserunt irure sunt aliquip irure exercitation. Duis eu ex nostrud voluptate. Aliqua ipsum elit do duis eiusmod minim ullamco sunt quis quis sit esse ad eiusmod. Nisi aliquip incididunt dolor fugiat adipisicing eu id ad mollit consectetur consequat. Dolor culpa nostrud consectetur laboris eiusmod do amet adipisicing incididunt sunt incididunt dolor. Culpa reprehenderit dolor do quis aliqua id mollit minim elit eiusmod culpa do fugiat.\r\n"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Live Support Session",
+    "shortDescription": "Live support sessions three times in a day to solve your coding related issues.",
+    "img1": "https://st.depositphotos.com/1014014/3181/i/600/depositphotos_31819439-stock-photo-live-support-message-communication-concept.jpg"
+  },
+  {
+    "id": 2,
+    "name": "24/7 Accessbility",
+    "shortDescription": "Accessibility is the practice of making information, activities, and/or environments sensible, meaningful, and usable for as many people as possible.",
+    "img1": "https://thumbs.dreamstime.com/b/cyber-security-business-technology-antivirus-alert-protection-firewall-cybersecurity-information-217658546.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Expert Co-ordinator",
+    "shortDescription": "Live support sessions three times in a day to solve your coding related issues.",
+    "img1": "https://media.istockphoto.com/photos/hand-with-marker-writing-skill-concept-picture-id637711198?k=20&m=637711198&s=612x612&w=0&h=bznzNhH923ckyX6LINoDPtH6z3wbB0yO6Gvk5fQR0ms="
+  },
+  {
+    "id": 4,
+    "name": "Assignment",
+    "shortDescription": "An assignment is a piece of (academic) work or task. It provides opportunity for students to learn, practice and demonstrate they have achieved the learning goals. ",
+    "img1": "https://i0.wp.com/itphobia.com/wp-content/uploads/2020/10/programming-assignment.jpg?fit=640%2C426&ssl=1"
+  },
+  {
+    "id": 5,
+    "name": "Video Facility",
+    "shortDescription": "Life time video access and download facility",
+    "img1": "https://library.kissclipart.com/20181004/ve/kissclipart-clip-art-clipart-youtube-computer-icons-clip-art-a9f740ce3f2e4479.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Job Placement",
+    "shortDescription": " In placement assistance just provides you with the necessary guidance. You have no assurity if you'll get a job or not.",
+    "img1": "https://i.pinimg.com/736x/1f/9d/a1/1f9da177be07e01dce45f7de08dc3a77.jpg"
+  }
+]
